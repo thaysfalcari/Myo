@@ -13,7 +13,7 @@ recorded waves with 8 channels, that correspond to columns in .txt
 files.
 
 During execution, you must be at the root of this file tree on the
-directory amostras_6_Gestos.
+directory amostras_6_Gestos_Original.
 
 
 Steps for programs execution:
@@ -67,7 +67,7 @@ In the end of the execution the following files will be generated:
 Finally to classify the data you will use program svmTrain.m,
 which is a MATLAB script.
 You must be at the root of this file tree on the
-directory amostras_6_Gestos.
+directory amostras_6_Gestos_Original.
 
 DATA
 - conjuntoTeste_128.ascii
